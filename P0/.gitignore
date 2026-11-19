@@ -2,3 +2,6 @@
 ## ambiente virtual 
 .venv
 
+## variáveis de ambiente
+.env
+
